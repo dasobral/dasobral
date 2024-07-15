@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Sobral Blanco @dasobral
-- 👀 I’m a PhD student of Cosmology at the University of Geneva 
--  From simple computations to more complex modelling and parameter forecasting for cosmological surveys. 
-- 📫 You can find me by mail at daniel.sobralblanco@unige.ch
+- 👀 I’m a Ph. D. in Physics graduate at the University of Geneva
+- 📫 You can find me by mail at daniel.sobralblanco@unige.ch or danisb1993@outlook.com
 
 <!---
 dasobral/dasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
