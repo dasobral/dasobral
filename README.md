@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Sobral Blanco @dasobral
-- 👀 I’m a Ph. D. in Physics currently working as a Technical Researt Assistant at the UC3M
-- 📫 You can find me by mail at dsobral@pa.uc3m.es or dasobral93@gmail.com
+- 👀 I’m a Ph. D. in Physics currently working as Software Engineer at Indra Servicios y Sistemas S.A.
+- 📫 You can find me by mail at dasobral93@gmail.com
 
 <!---
 dasobral/dasobral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
