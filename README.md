@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Sobral Blanco @dasobral
-- 👀 I’m a Ph. D. in Physics currently working as Software Engineer at Indra Servicios y Sistemas S.A.
+- 👀 I’m a Ph. D. in Physics currently working as Application Engineer at Quside.
 - 📫 You can find me by mail at dasobral93@gmail.com
 
 <!---
